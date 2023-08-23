@@ -9,5 +9,5 @@ Esta é uma calculadora simples implementada em JavaScript. Ela permite realizar
 - Multiplicação de números;
 - Divisão de números.
 
-#Contribuição
+# Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request com melhorias, correções de bugs ou novas funcionalidades.
